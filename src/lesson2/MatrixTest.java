@@ -1,3 +1,5 @@
+package lesson2;
+
 public class MatrixTest {
     private static final int MATIXSIZE = 4;
 
